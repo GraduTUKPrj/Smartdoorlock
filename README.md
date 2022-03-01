@@ -5,5 +5,5 @@
 | 기간 2022/01~2022/06<br>
 | 사용 언어 : Java, Python<br>
 | 사용 환경 : Windows, Linux(Raspbian OS)<br>
-| 사용 IDE : Android Studio, Thonny IDE, PyCharm
+| 사용 IDE : Android Studio, Thonny IDE, PyCharm<br>
 | MySQL + Flask + Android + Raspberry Pi 4<br>
